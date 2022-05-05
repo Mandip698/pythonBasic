@@ -78,26 +78,18 @@
 # taxable amount
 # grand total
 
-print("""Computer Bazar 
-1.Dell(20000)
-2.Toshiba(30000) 
-3.Mac(50000)""")
+print("==========Computer Bazar==========")
+print("1.Dell(20000) 2.Toshiba(30000) 3.Mac(50000)")
 product = int(input("Enter the no. you want to buy from above :"))
 quantity = int(input("Enter quantity of the said item :"))
-print("""Delivery
-1.Home(1000)
-2.Pickup(Free)""")
+print("Delivery")
+print("1.Home(1000) 2.Pickup(Free)")
 deli = int(input("Choose the method of delivery :"))
-print("""Packing
-1.Plastic(500)
-2.Bag(1000)
-3.Gift Box(5000)
-4.None""")
+print("Packing")
+print("1.Plastic(500) 2.Bag(1000) 3.Gift Box(5000)  4.None")
 pack = int(input("Choose method of packing :"))
-print("""Location
-1.Ktm(with 13% tax)
-2.Lalitpur(tax free)
-3.Bhaktapur(tax free)""")
+print("Location")
+print("1.Ktm(with 13% tax) 2.Lalitpur(tax free) 3.Bhaktapur(tax free)")
 locate = int(input("Choose location of delivery :"))
 x = {
     "products": [("Dell", 20000), ("Toshiba", 30000), ("Mac", 50000)],
