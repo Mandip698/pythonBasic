@@ -109,3 +109,4 @@ if locate == 1:
     print(f"The GrandTotal is : {grandtotal1}")
 else:
     print(f"The GrandTotal is : {grandtotal2}")
+
