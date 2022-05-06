@@ -47,3 +47,9 @@
 # else:
 #     print(f'3 and 5 are not multiples of {n} ')
 
+# * is used to take all except tha assigned
+# x, *y, z = 10, 20, 30, 40, 50, 60, 70, 80
+# print(x)
+# print(y)
+# print(z)
+
