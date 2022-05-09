@@ -85,4 +85,5 @@ while i <= num:
     students_name.append(name)
     i += 1
 
-print(students_name)
+print(students_name.sort())
+
