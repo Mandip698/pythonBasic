@@ -86,4 +86,3 @@ while i <= num:
     i += 1
 
 print(students_name.sort())
-
