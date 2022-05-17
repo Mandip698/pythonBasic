@@ -140,12 +140,14 @@
 # print(a())
 
 
-def users():
-    def name(new_name):
-        return f"I am {new_name}"
+# def users():
+#     def name(new_name):
+#         return f"I am {new_name}"
+#
+#     return name
+#
+#
+# a = users()('Mandeep')
+# print(a)
 
-    return name
 
-
-a = users()('Mandeep')
-print(a)

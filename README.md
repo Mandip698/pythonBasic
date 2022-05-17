@@ -33,4 +33,7 @@
 
 ## Functions
     * Inbuilt function
+        1.abs()
+        2.all()
+        3.
     
