@@ -34,6 +34,22 @@
 #
 # my_repeat(name, time)
 
+# define function like: add_sub_multiply_divide(a, b)
+
+
+# def add_sub_mul_div(x, y):
+#     add = x + y
+#     sub = x - y
+#     mul = x * y
+#     div = x / y
+#     return [add, sub, mul, div]
+#
+#
+# result = add_sub_mul_div(20, 30)
+# print(f"total add: {result[0]}, total sub: {result[1]}, total mul: {result[2]}, total div: {result[3]}")
+
+# print(dir(__builtins__))
+
 
 # num_1 = int(input("enter a number:"))
 # num_2 = int(input("enter a number:"))
@@ -51,6 +67,4 @@
 # add_sub_mul_div(num_1, num_2, num_3)
 
 
-#zip()
-
-data=[]
+# zip()

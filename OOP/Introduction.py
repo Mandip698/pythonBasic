@@ -68,4 +68,4 @@ obj1 = Introduction('Sita', 20)
 obj2 = Introduction('Gita', 20)
 obj3 = Introduction('Hari', 20)
 
-# print(obj3.total)
+print(obj3.total)
