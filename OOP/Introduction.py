@@ -55,17 +55,19 @@
 # obj.get_name()
 
 
-class Introduction:
-    total = 0
+# class Introduction:
+#     total = 0
+#
+#     def __init__(self, name, age):
+#         print(name, age)
+#         self.total += 1
+#
+#
+# obj = Introduction('John', 20)
+# obj1 = Introduction('Sita', 20)
+# obj2 = Introduction('Gita', 20)
+# obj3 = Introduction('Hari', 20)
+#
+# print(obj3.total)
 
-    def __init__(self, name, age):
-        print(name, age)
-        self.total += 1
 
-
-obj = Introduction('John', 20)
-obj1 = Introduction('Sita', 20)
-obj2 = Introduction('Gita', 20)
-obj3 = Introduction('Hari', 20)
-
-print(obj3.total)

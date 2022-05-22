@@ -59,6 +59,3 @@ if question == 'y':
 
 else:
     register()
-
-
-
