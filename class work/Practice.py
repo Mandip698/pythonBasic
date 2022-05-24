@@ -13,7 +13,11 @@ class Child(Parent):
         # super().__init__(fname, lname)
         self.printage = age
 
+    # def welcome(self):
+    #     print('Congratulations', self.firstname, self.lastname, f'for your {x.printage}th birthday')
 
-x = Child('Mandeep', 'Panta', 10)
+
+x = Child('Mandeep', 'Panta', 20)
 x.printname()
-print(x.printage)
+print('Age :', x.printage)
+# x.welcome()
