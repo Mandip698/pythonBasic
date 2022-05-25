@@ -158,3 +158,25 @@
     66. __invert__
     67. __complex__
     68. __int
+
+
+##HTML
+    *Introduction
+    *HTML Elements
+    *HTML Attributes
+    *image,video,audio,map
+    *table,form
+
+
+##CSS
+    *Introduction
+    *Template Design
+
+
+##Bootstrap
+    *Introduction
+
+
+##JavaScript
+    *Introduction
+    
