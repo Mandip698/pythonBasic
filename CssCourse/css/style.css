@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+
+.test{
+    color: green;
+}
+
+#test{
+    color: orange;
+
+}
+
+p{
+    color:blue;
+    font-size: large;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    background: red;
+    float: left;
+    display: flex;
+}
+
+.box1{
+    width: 400px;
+    height: 400px;
+    background: green;
+    float: right;
+    /* margin: 100px; */
+    /* padding: 100px; */
+}
+
+.class1{
+    width: 200px;
+    height: 200px;
+    background: black;
+    float: left;
+}
+
+.class2{
+    width: 200px;
+    height: 200px;
+    background: green;
+    float: left;
+}
